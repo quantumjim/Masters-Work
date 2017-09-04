@@ -1,7 +1,7 @@
 # Masters Work
 Project work by masters students supervised by James Wootton.
 
-**[Universal quantum computation using a hybrid quantum double model](masters_work/blob/master/Laubscher_Universal_quantum_computation_using_a_hybrid_quantum_double_model.pdf)**
+**[Universal quantum computation using a hybrid quantum double model](Laubscher_Universal_quantum_computation_using_a_hybrid_quantum_double_model.pdf)**
 
 *Katharina Laubscher*
 
@@ -22,7 +22,7 @@ to the D(S_3) phase. This enables us to manipulate logical information in the
 D(S_3) part of the lattice, further enlarging the set of possible operations and
 providing even more flexibility.
 
-**[Analysis of noisy gates in minimal surface codes](masters_work/blob/master/Peter_Analysis_of_noisy_gates_in_minimal_surface_codes.pdf)**
+**[Analysis of noisy gates in minimal surface codes](Peter_Analysis_of_noisy_gates_in_minimal_surface_codes.pdf)**
 
 *Andreas Peter*
 
@@ -44,7 +44,7 @@ specific entangling gates well if we only know the channel infidelity of those
 entangling gates.
 
 **[Stabilizer Codes as Resource for non-universal Quantum Information
-Processing on the Example of the Quantum Anonymous Broadcast](masters_work/blob/master/Kesselring_Stabilizer_codes_as_resource_for_non-universal_quantum_information_processing_on_the_example_of_the_quantum_anonymous_broadcast.pdf)**
+Processing on the Example of the Quantum Anonymous Broadcast](Kesselring_Stabilizer_codes_as_resource_for_non-universal_quantum_information_processing_on_the_example_of_the_quantum_anonymous_broadcast.pdf)**
 
 *Markus Kesselring*
 
@@ -56,7 +56,7 @@ trivially having access to the whole universal gate set. We study how to impleme
 variety of fault tolerant systems. In a last section, non-destructive ways to measure the charge of
 multiple Majorana zeromodes is discussed.
 
-**[Embedded D(Z_2) Surface Codes & A decoder for imperfectly measured Planar Code](masters_work/blob/master/Winkler_Embedded_D(Z_2)_surface_codes.pdf)**
+**[Embedded D(Z_2) Surface Codes & A decoder for imperfectly measured Planar Code](Winkler_Embedded_D(Z_2)_surface_codes.pdf)**
 
 *Janos Winkler*
 
