@@ -72,5 +72,11 @@ thresholds for the decoder were found in the range of ≈ 6% for independent noi
 for depolarized noise. Furthermore, we show that the decoder is significantly better compared to
 regular MWPM for very low error rates.
 
+**[Fault-tolerant Error Correction of non-Abelian Anyons](Heim_Fault-tolerant_Error_Correction_of_non-Abelian_Anyons.pdf)**
 
+*Patrick Heim*
+
+In this thesis a new decoding algorithm (Weasel) was developed for the planar code and compared with other decoders (Bravyi Haah, ABCB and Expanding Diamonds). The algorithm's threshold in the qubit case is around 6%; for d=6 it is 11.5%. Error configurations that cause the decoder to fail were analyzed by applying Kruskal's algorithm to find the minimal spanning tree of errors across the 2D lattice. The scaling behaviour of these error configurations was investigated for the four decoders and the Weasel decoder was found to be competitive in that respect.
+
+*Note that, despite the title, no non-Abelian anyons get corrected in this thesis. Plans changed during the project, but changing the title would have needed too much admin.*
 
