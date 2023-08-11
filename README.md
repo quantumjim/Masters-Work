@@ -1,6 +1,33 @@
 # Masters Work
 Project work by masters students supervised by James Wootton at the University of Basel.
 
+
+**[Quantum Error Correction Benchmark and Diagnostics](Liepelt_Quantum_Error_Correction_Benchmark_and_Diagnostics.pdf)**
+
+*Milan Liepelt*
+
+With the improvements in the quality and size of quantum computers, the point where
+quantum error correction (QEC) can be the key-enabling technology for specific real-
+world applications comes closer. Quantum computing platforms differ in their physical
+implementation and architectures and have therefore different strengths and weaknesses,
+which can make QEC more or less effective. To assess the potential that can be reached
+with QEC reliably, we present a method for quantum error correction diagnostics and
+benchmarking. The QEC benchmark allows to assess and compare how well a quantum computer 
+retains useful quantum information over time and how well this number
+scales by adding more qubits to the QEC system. The developed method is based on
+the anisotropic repetition code (ARC). This codes’ unique property is the combination
+of the simplicity of a standard repetition code, while encoding neighboring data qubits in
+different bases, which is a special property of more advanced QEC codes like the Surface
+code, and might be an additional source of noise. This code allows further data to be
+gathered for the so-called micro diagnostics/benchmarks to assess a quantum computer
+down to single qubit properties. Different diagnostic methods based on syndrome data
+were developed to detect erroneous qubits and leakage during QEC runtime. Such in-
+formation can be useful for quantum circuit schedulers to optimize which qubits to run
+an algorithm best, and QEC decoders can also greatly benefit from this information to
+improve accuracy. Finally, a protocol is proposed under which the ARC might qualify to
+be taken up in application-oriented quantum computing benchmarking suites.
+
+
 **[Universal quantum computation using a hybrid quantum double model](Laubscher_Universal_quantum_computation_using_a_hybrid_quantum_double_model.pdf)**
 
 *Katharina Laubscher*
