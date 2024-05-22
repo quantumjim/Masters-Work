@@ -1,6 +1,13 @@
 # Masters Work
-Project work by masters students supervised by James Wootton at the University of Basel.
+Project work by masters students supervised by James Wootton at the University of Basel and IBM Quantum.
 
+**[Soft Information Quantum Error Correction](https://github.com/quantumjim/Masters-Work/blob/master/Hanisch_Soft_Information_QEC.pdf)**
+
+*Maurice Hanisch*
+
+**[Implementing and Benchmarking a Floquet Code on Superconducting Hardware](https://github.com/quantumjim/Masters-Work/blob/master/Hesner_Implementing_and_Benchmarking_a_Floquet_Code.pdf)**
+
+*Ian Hesner*
 
 **[Quantum Error Correction Benchmark and Diagnostics](Liepelt_Quantum_Error_Correction_Benchmark_and_Diagnostics.pdf)**
 
